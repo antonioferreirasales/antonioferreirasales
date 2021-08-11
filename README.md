@@ -6,7 +6,7 @@
 
 ## Sou um estudante de TI
 
-- 🎓 Estou no 5° período de Ciência da Computação 
+- 🎓 Estou no 5º período de Ciência da Computação 
 - 📚 Atualmente estou aprendendo HTML e JavaScript
 - 🎯 Buscando me tornar um profissional de TI, criando e desenvolvendo minhas habilidades em back e front-end
 - 🔎 A procura de estágio em Fortalez-CE
