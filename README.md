@@ -1,5 +1,6 @@
 ### _*Olá,*_ 👋
-<img align="right" alt="gif" width="200" src="https://cdn.discordapp.com/attachments/764220224034701334/874932381667188736/do_u_listen_2_gir.gif">
+<img align="right" alt="dogo" src="https://c.tenor.com/jCI8X9bhx4gAAAAC/cowboy-bebop.gif">
+
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/katakanaisart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
