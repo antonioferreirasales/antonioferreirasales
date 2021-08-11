@@ -1,5 +1,5 @@
 ### _*Olá,*_ 👋
-<img align="right" alt="Rafa-yoda" src="https://c.tenor.com/jCI8X9bhx4gAAAAC/cowboy-bebop.gif">
+<img align="right" alt="gif" width="200" src="https://cdn.discordapp.com/attachments/764220224034701334/874932381667188736/do_u_listen_2_gir.gif">
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/katakanaisart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -13,7 +13,7 @@
 - 🎨 Curiosidades: estou aprendendo Japonês (N5), adoro ler e escrevo ficção esporadicamente. 
 
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/antonioferreirasales">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=antonioferreirasales&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioferreirasales&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
