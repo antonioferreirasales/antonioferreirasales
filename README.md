@@ -7,11 +7,11 @@
 
 ## Sou um estudante de TI
 
-- 🎓 Estou no 5º período de Ciência da Computação 
-- 📚 Atualmente estou aprendendo HTML e JavaScript
-- 🎯 Buscando me tornar um profissional de TI, criando e desenvolvendo minhas habilidades em back e front-end
+- 🎓 Estou no 5º período de **Ciência da Computação** 
+- 📚 Atualmente estou aprendendo _HTML_ e _JavaScript_
+- 🎯 Buscando me tornar um profissional de TI, criando e desenvolvendo minhas habilidades em _back-end_ e _front-end_
 - 🔎 A procura de estágio em Fortalez-CE
-- 🎨 Curiosidades: estou aprendendo Japonês (N5), adoro ler e escrevo ficção esporadicamente. 
+- 🎨 Hobbies: estou aprendendo Japonês (_N5_), adoro ler e escrevo ficção esporadicamente. Sim, também jogo _video games_
 
 <div>
   <a href="https://github.com/antonioferreirasales">
