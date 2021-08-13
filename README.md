@@ -1,11 +1,9 @@
 ### _*Olá,*_ 👋
 <img align="right" alt="dogo" src="https://c.tenor.com/jCI8X9bhx4gAAAAC/cowboy-bebop.gif">
 
+<a href="https://www.linkedin.com/in/antonioferreirasales" target="_blank"><img align = "right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/katakanaisart?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-## Sou um estudante de TI
+## Sou um aspirante a desenvolvedor
 
 - 🎓 Estou no 5º período de **Ciência da Computação** 
 - 📚 Atualmente estou aprendendo _HTML_ e _JavaScript_
@@ -24,8 +22,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    
- 
 </div>
+  
   
   ![Snake animation](https://github.com/antonioferreirasales/antonioferreirasales/blob/output/github-contribution-grid-snake.svg)
