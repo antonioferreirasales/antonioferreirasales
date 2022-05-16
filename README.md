@@ -3,13 +3,12 @@
 
 <a href="https://www.linkedin.com/in/antonioferreirasales" target="_blank"><img align = "right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
-## Sou um aspirante a desenvolvedor
+## Sou um estudante de desenvolvimento 
 
-- 🎓 Estou no 4º período de **Ciência da Computação** 
-- 📚 Atualmente estou aprendendo _HTML_ e _JavaScript_
-- 🎯 Buscando me tornar um profissional de TI, criando e desenvolvendo minhas habilidades em _back-end_ e _front-end_
-- 🔎 A procura de estágio em Fortalez-CE
-- 🎨 Hobbies: estou aprendendo Japonês (_N5_), adoro ler e escrevo ficção esporadicamente. Sim, também jogo _video games_
+- 🎓 4º período de **Ciência da Computação** 
+- 📚 Atualmente aprendendo sobre desenvolvimento web
+- 🎯 Buscando me tornar um profissional de TI, criando e desenvolvendo minhas habilidades
+- 🔎 A procura de estágio
 
 <div>
   <a href="https://github.com/antonioferreirasales">
