@@ -8,7 +8,7 @@
 - 🎓 4º período de **Ciência da Computação** 
 - 📚 Atualmente aprendendo sobre desenvolvimento web
 - 🎯 Buscando me tornar um profissional de TI, criando e desenvolvendo minhas habilidades
-- 🔎 A procura de estágio
+- 🔎 À procura de estágio
 
 <div>
   <a href="https://github.com/antonioferreirasales">
