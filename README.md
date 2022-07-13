@@ -5,10 +5,8 @@
 
 ## Sou um estudante de desenvolvimento 
 
-- 🎓 4º período de **Ciência da Computação** 
-- 📚 Atualmente aprendendo sobre desenvolvimento web
-- 🎯 Buscando me tornar um profissional de TI, criando e desenvolvendo minhas habilidades
-- 🔎 À procura de estágio
+- 🎓 5º período de **Ciência da Computação** 
+- 📚 Atualmente estudando Banco de Dados e desenvolvimento web 
 
 <div>
   <a href="https://github.com/antonioferreirasales">
