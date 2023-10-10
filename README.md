@@ -1,7 +1,7 @@
 ### _*Olá,*_ 👋
 <img align="right" alt="dogo" src="https://c.tenor.com/jCI8X9bhx4gAAAAC/cowboy-bebop.gif">
 
-<a href="https://www.linkedin.com/in/x" target="_blank"><img align = "right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href="https://www.linkedin.com/in/antonioferreirasales/" target="_blank"><img align = "right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 
 ## Sou um estudante de Ciência da Computação
 - 📚 Atualmente estudando Frontend e Backend com Node e Java
